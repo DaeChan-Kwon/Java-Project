@@ -1,0 +1,13 @@
+BLACK
+898
+897
+BlackRook,BlackKnight,BlackBishop,BlackQueen,BlackKing,BlackBishop,BlackKnight,BlackRook,
+BlackPawn,BlackPawn,BlackPawn,BlackPawn,BlackPawn,null,BlackPawn,BlackPawn,
+null,null,null,null,null,null,null,null,
+null,null,null,null,null,WhitePawn,null,null,
+null,null,null,null,null,null,null,null,
+null,null,null,null,null,null,null,null,
+WhitePawn,WhitePawn,WhitePawn,WhitePawn,null,WhitePawn,WhitePawn,WhitePawn,
+WhiteRook,WhiteKnight,WhiteBishop,WhiteQueen,WhiteKing,WhiteBishop,WhiteKnight,WhiteRook,
+♙ e2 -> e4%%%♙ e4 -> f5%%%
+♟ f7 -> f5%%%
